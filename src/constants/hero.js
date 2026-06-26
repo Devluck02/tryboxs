@@ -1,0 +1,66 @@
+import banner1 from "@/assets/banner/banner1.png";
+import banner2 from "@/assets/banner/banner2.png";
+import banner3 from "@/assets/banner/banner3.png";
+
+export const HERO_SLIDES = [
+  {
+    id: 1,
+    tag: "Fashion",
+    title: "Flat 50% Off on Nike Air Max",
+    description: "Running shoes with Air cushioning — limited time deal.",
+    cta: "Get Deal",
+    href: "/deals/nike-air-max-running-shoes",
+    image: banner1,
+    overlay: "from-indigo-900/70 to-purple-900/40",
+  },
+  {
+    id: 2,
+    tag: "Electronics",
+    title: "Samsung Galaxy Buds Pro — 46% Off",
+    description: "Noise cancellation earbuds at lowest price.",
+    cta: "Get Deal",
+    href: "/deals/samsung-galaxy-buds-pro",
+    image: banner2,
+    overlay: "from-emerald-900/70 to-teal-900/40",
+  },
+  {
+    id: 3,
+    tag: "Beauty",
+    title: "Mamaearth Vitamin C Combo — 50% Off",
+    description: "Natural skincare combo, toxin-free formula.",
+    cta: "Get Deal",
+    href: "/deals/mamaearth-vitamin-c-skincare-combo",
+    image: banner3,
+    overlay: "from-orange-900/70 to-rose-900/40",
+  },
+  {
+    id: 4,
+    tag: "Sports",
+    title: "Decathlon Yoga Kit — 60% Off",
+    description: "Yoga mat + resistance bands combo for home workouts.",
+    cta: "Get Deal",
+    href: "/deals/decathlon-yoga-mat-resistance-kit",
+    image: banner1,
+    overlay: "from-teal-900/70 to-emerald-900/40",
+  },
+  {
+    id: 5,
+    tag: "Electronics",
+    title: "Samsung Galaxy Buds Pro — 46% Off",
+    description: "Best wireless earbuds deal of the season.",
+    cta: "Get Deal",
+    href: "/deals/samsung-galaxy-buds-pro",
+    image: banner2,
+    overlay: "from-blue-900/70 to-indigo-900/40",
+  },
+  {
+    id: 6,
+    tag: "Beauty",
+    title: "Mamaearth Vitamin C Combo — 50% Off",
+    description: "Grab this bestselling skincare combo today.",
+    cta: "Get Deal",
+    href: "/deals/mamaearth-vitamin-c-skincare-combo",
+    image: banner3,
+    overlay: "from-rose-900/70 to-pink-900/40",
+  },
+];

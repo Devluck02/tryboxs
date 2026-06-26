@@ -1,0 +1,18 @@
+export const BRANDS = [
+  { name: "Amazon", slug: "amazon", cashback: "Up to 8% Cashback", logo: "https://logo.clearbit.com/amazon.in" },
+  { name: "Flipkart", slug: "flipkart", cashback: "Up to 10% Cashback", logo: "https://logo.clearbit.com/flipkart.com" },
+  { name: "Myntra", slug: "myntra", cashback: "Up to 12% Cashback", logo: "https://logo.clearbit.com/myntra.com" },
+  { name: "Ajio", slug: "ajio", cashback: "Up to 15% Cashback", logo: "https://logo.clearbit.com/ajio.com" },
+  { name: "Nike", slug: "nike", cashback: "Up to 10% Cashback", logo: "https://logo.clearbit.com/nike.com" },
+  { name: "Adidas", slug: "adidas", cashback: "Up to 12% Cashback", logo: "https://logo.clearbit.com/adidas.com" },
+  { name: "Puma", slug: "puma", cashback: "Up to 14% Cashback", logo: "https://logo.clearbit.com/puma.com" },
+  { name: "H&M", slug: "hm", cashback: "Up to 10% Cashback", logo: "https://logo.clearbit.com/hm.com" },
+  { name: "Levi's", slug: "levis", cashback: "Up to 12% Cashback", logo: "https://logo.clearbit.com/levi.com" },
+  { name: "Samsung", slug: "samsung", cashback: "Up to 6% Cashback", logo: "https://logo.clearbit.com/samsung.com" },
+  { name: "boAt", slug: "boat", cashback: "Up to 15% Cashback", logo: "https://logo.clearbit.com/boat-lifestyle.com" },
+  { name: "Croma", slug: "croma", cashback: "Up to 8% Cashback", logo: "https://logo.clearbit.com/croma.com" },
+  { name: "Nykaa", slug: "nykaa", cashback: "Up to 12% Cashback", logo: "https://logo.clearbit.com/nykaa.com" },
+  { name: "Zomato", slug: "zomato", cashback: "Up to 20% Cashback", logo: "https://logo.clearbit.com/zomato.com" },
+  { name: "Swiggy", slug: "swiggy", cashback: "Up to 20% Cashback", logo: "https://logo.clearbit.com/swiggy.com" },
+  { name: "BigBasket", slug: "bigbasket", cashback: "Up to 10% Cashback", logo: "https://logo.clearbit.com/bigbasket.com" },
+];
